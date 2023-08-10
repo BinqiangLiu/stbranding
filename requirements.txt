@@ -4,3 +4,4 @@ streamlit-chat
 streamlit-extras
 streamlit_chat
 streamlit_extras
+altair
