@@ -18,7 +18,7 @@ with open(css_file) as f:
 
 # Store LLM generated responses
 if "messages" not in st.session_state.keys():
-    st.session_state.messages = [{"role": "assistant", "content": "How may I help you?"}]
+    st.session_state.messages = [{"role": "assistant", "content": "Hi, there. How may I help you?"}]
 
 # Display chat messages
 for message in st.session_state.messages:
