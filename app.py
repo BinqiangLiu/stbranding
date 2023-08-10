@@ -7,7 +7,8 @@ from hugchat.login import Login
 #from streamlit_extras.add_vertical_space import add_vertical_space
 
 st.set_page_config(page_title="AI Chatbot 100% Free")
-st.title('完全开源免费的AI智能聊天助手 | Absolute Free & Opensouce AI Chatbot')
+st.write('完全开源免费的AI智能聊天助手 | Absolute Free & Opensouce AI Chatbot')
+#st.title('完全开源免费的AI智能聊天助手 | Absolute Free & Opensouce AI Chatbot')
 #st.write('🤗💬Absolute Free & Opensouce AI Chatbot: HugChat - DataProf & chatMATE/VishnuSivan')
 
 # --- PATH SETTINGS ---
